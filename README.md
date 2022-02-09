@@ -1,5 +1,5 @@
 ## Olá! eu sou a Diana, 
-Sou formada em Análise e Desenvolvimento de Sistemas e Formação Pedagógica em Informática.  
+Sou formada em Análise e Desenvolvimento de Sistemas e em Formação Pedagógica em Informática.  
 Gosto de programação,tecnologia e assistir animes e seriados.
 <div align="center">
   <a href="https://github.com/Prof-Diana">
